@@ -44,3 +44,8 @@ body,html{ height:100%; margin:0;}
   padding:10px;
   border:1px solid black;
 }
+.cat_name{
+  border-bottom: 1px solid grey;
+  padding-bottom: 5px;
+
+}
